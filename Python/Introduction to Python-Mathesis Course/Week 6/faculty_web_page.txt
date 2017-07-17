@@ -1,0 +1,1457 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="el-gr" lang="el-gr" >
+    <head>
+          <base href="http://www.ece.upatras.gr/gr/personnel/faculty.html" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="Super User" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Διδακτικό και Ερευνητικό Προσωπικό</title>
+  <link href="http://www.ece.upatras.gr/gr/component/search/?Itemid=489&amp;format=opensearch" rel="search" title="Αναζήτηση Τμήμα Ηλεκτρολόγων Μηχανικών και Τεχνολογίας Υπολογιστών" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="http://www.ece.upatras.gr/plugins/system/osolcaptcha/osolCaptcha/captchaStyle.css" type="text/css" />
+  <link rel="stylesheet" href="/media/com_attachments/css/attachments_hide.css" type="text/css" />
+  <link rel="stylesheet" href="/media/com_attachments/css/attachments_list.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/css/jcemediabox.css?version=114" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/themes/standard/css/style.css?version=114" type="text/css" />
+  <link rel="stylesheet" href="/libraries/gantry/css/grid-12.css" type="text/css" />
+  <link rel="stylesheet" href="/libraries/gantry/css/gantry.css" type="text/css" />
+  <link rel="stylesheet" href="/libraries/gantry/css/joomla.css" type="text/css" />
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu" type="text/css" />
+  <link rel="stylesheet" href="/templates/ca_cloudbase2_j25/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ca_cloudbase2_j25/css/typography.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ca_cloudbase2_j25/css/fusionmenu.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_nice_social_bookmark/css/nsb.css" type="text/css" />
+  <link rel="stylesheet" href="/media/mod_falang/css/template.css" type="text/css" />
+  <style type="text/css">
+body {background: url(/templates/ca_cloudbase2_j25/images/patterns/pattern_2.png) left top repeat-x #2a4d73;}body a, body a:hover {color:#05235c;}.module-title h2.title{background-color:#105d94;}.module-title h2.title{ color:#ffffff;}#rt-top h2.title, #rt-content-top h2.title, #rt-content-bottom h2.title, #rt-bottom h2.title{ color:#000000;}#rt-footer, #rt-footer a, #rt-footer h2.title, #rt-copyright, #rt-copyright a {color:#042b3c;}#rt-footer .menu li {border-bottom: 1px solid #042b3c;}.component-content h1, .component-content h2, .component-content h3, .component-content h4, .component-content h5, .component-content h6, .component-content h1 a, .component-content h2 a, .component-content h3 a, .component-content h4 a, .component-content h5 a, .component-content h6 a {color:#000000;}.button{background-color:#105d94;}#rt-menu ul.menu li.active > a, #rt-menu ul.menu li.active a:hover, #rt-menu ul.menu li a:hover, .menutop li.root.active > .item, .menutop li.active > span.item, .menutop li.root.active > .item:hover, .menu-type-splitmenu .menutop li.active .item, .menutop ul li > a.item:hover, .menutop ul li.f-menuparent-itemfocus > a.item, .menutop ul li.f-menuparent-itemfocus > span.item,.menutop li.root > .item:hover, .menutop li.active.root.f-mainparent-itemfocus > .item, .menutop li.root.f-mainparent-itemfocus > .item, .menu-type-splitmenu .menutop li:hover > .item, .menutop .fusion-js-subs ul li.active > a, .menutop li.root > .item, .menu-type-splitmenu .menutop li .item{color:#105d94;}.menutop ul li > .item:hover span, .menutop ul li.f-menuparent-itemfocus > a.item span, .menutop li.active > span.item, .menutop ul li.f-menuparent-itemfocus > span.item, .menutop .fusion-js-subs ul li.active > a span {color:#000;}.menutop ul li > a.item:hover, .menutop ul li.f-menuparent-itemfocus > a.item, .menutop li.active > span.item, .menutop ul li.f-menuparent-itemfocus > span.item, .menutop .fusion-js-subs ul li.active > a {background-color:#cfccc9;}h1, h2 { font-family: 'Ubuntu', 'Helvetica', arial, serif; }body #rt-logo {background: url("http://www.ece.upatras.gr/templates/ca_cloudbase2_j25/images/logo/el-GR.logo.png") no-repeat scroll 0 0; width:920px;height:132px;}
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/com_attachments/js/attachments_refresh.js" type="text/javascript"></script>
+  <script src="/plugins/system/jcemediabox/js/jcemediabox.js?version=114" type="text/javascript"></script>
+  <script src="/templates/ca_cloudbase2_j25/js/gantry-totop.js" type="text/javascript"></script>
+  <script src="/libraries/gantry/js/browser-engines.js" type="text/javascript"></script>
+  <script src="/modules/mod_roknavmenu/themes/fusion/js/fusion.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+		   
+		   				function reloadCapthcha(instanceNo)
+						{
+							var captchaSrc = "http://www.ece.upatras.gr/index.php?showCaptcha=True&instanceNo="+instanceNo+"&time="+ new Date().getTime();
+							//alert(captachaSrc);
+							//alert(document.getElementById('captchaCode'+instanceNo));
+							document.getElementById('captchaCode'+instanceNo).src = captchaSrc ;
+							//alert(document.getElementById('captchaCode'+instanceNo).src);
+						} 
+						window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});JCEMediaObject.init('/', {flash:"10,0,22,87",windowmedia:"5,1,52,701",quicktime:"6,0,2,0",realmedia:"7,0,0,0",shockwave:"8,5,1,0"});JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'}},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes"});            window.addEvent('domready', function() {
+                new Fusion('ul.menutop', {
+                    pill: 0,
+                    effect: 'slide and fade',
+                    opacity:  1,
+                    hideDelay:  500,
+                    centered:  0,
+                    tweakInitial: {'x': -10, 'y': -13},
+                    tweakSubsequent: {'x':  0, 'y':  0},
+                    tweakSizes: {'width': 20, 'height': 20},
+                    menuFx: {duration:  300, transition: Fx.Transitions.Circ.easeOut},
+                    pillFx: {duration:  400, transition: Fx.Transitions.Back.easeOut}
+                });
+            });
+            function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"}).send();} window.addEvent("domready", function(){ keepAlive.periodical(3600000); });
+  </script>
+        <link  href="//fonts.googleapis.com/css?family=Ubuntu:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css" />
+    <script type="text/javascript"></script>
+</head>
+    <body  class="font-family-ubuntu font-size-is-default menu-type-fusionmenu col12">
+    	<a name="pageTop" id="pageTop"></a>
+    	<div id="page-wraper">
+    		<div id="in-page-wraper">
+    			<div id="in-page-wraper-2">
+			        										<div id="rt-top" >
+						<div class="rt-container">
+							<div class="rt-grid-12 rt-alpha rt-omega">
+    			<div class="rt-block">
+    	    	<a href="/" id="rt-logo"></a>
+    		</div>
+	    
+</div>
+							<div class="clear"></div>
+						</div>
+					</div>
+															<div id="rt-header">
+						<div class="rt-container">
+							<div class="rt-grid-10 rt-alpha">
+        <div class="date-block">
+        <span class="date">Σάββατο, 03 06 2017</span>
+    </div>
+	
+</div>
+<div class="rt-grid-2 rt-omega">
+                        <div class="rt-block">
+                                <div class="mod-languages">
+
+	<ul class="lang-inline">
+						<li class="lang-active">
+			<a href="/gr/personnel/faculty.html">
+							<img src="/media/mod_falang/images/el.gif" alt="Ελληνικά" title="Ελληνικά" />						</a>
+			</li>
+								<li class="">
+			<a href="/en/personnel/faculty.html">
+							<img src="/media/mod_falang/images/en.gif" alt="English (UK)" title="English (UK)" />						</a>
+			</li>
+				</ul>
+
+</div>
+            </div>
+        	                    <div class="rt-block">
+                                <form action="/gr/personnel/faculty.html" method="post">
+	<div class="search">
+		<!-- label for="mod-search-searchword">  </label --><input name="searchword" id="mod-search-searchword" maxlength="20"  class="inputbox" type="text" size="20" value="Αναζήτηση..."  onblur="if (this.value=='') this.value='Αναζήτηση...';" onfocus="if (this.value=='Αναζήτηση...') this.value='';" />	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="489" />
+	</div>
+</form>
+            </div>
+        	
+</div>
+							<div class="clear"></div>
+						</div>
+					</div>
+															<div id="rt-menu">
+						<div class="rt-container">
+							<div class="rt-fusionmenu">
+<div class="nopill">
+<div class="rt-menubar">
+    <ul class="menutop level1 " >
+                        <li class="item471 parent root" >
+                            <a class="daddy item bullet" href="http://www.ece.upatras.gr/"  >
+                    <span>
+                                        Το Τμήμα                                                            <span class="daddyicon"></span>
+                                        </span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level2" style="width:180px;">
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item476" >
+                            <a class="orphan item bullet" href="/gr/the-department/welcome.html"  >
+                    <span>
+                                        Χαιρετισμοί                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item477" >
+                            <a class="orphan item bullet" href="/gr/the-department/history.html"  >
+                    <span>
+                                        Ιστορία                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item479" >
+                            <a class="orphan item bullet" href="/gr/the-department/structure.html"  >
+                    <span>
+                                        Δομή και Όργανα                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item670" >
+                            <a class="orphan item bullet" href="/gr/the-department/secretariat.html"  >
+                    <span>
+                                        Γραμματεία                                                             </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item832" >
+                            <a class="orphan item bullet" href="/gr/the-department/epitropes.html"  >
+                    <span>
+                                        Επιτροπές Τμήματος                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item749" >
+                            <a class="orphan item bullet" href="/gr/the-department/health-and-security.html"  >
+                    <span>
+                                        Υγιεινή και Ασφάλεια                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item751 parent" >
+                            <span class="daddy item bullet nolink">
+                    <span>
+                                            Επιστημονικές Εκδηλώσεις Τμήματος                                                            </span>
+                </span>
+            
+                                                <div class="fusion-submenu-wrapper level3" style="width:180px;">
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item752" >
+                            <a class="orphan item bullet" href="/gr/the-department/open-courses/green-power.html"  >
+                    <span>
+                                        Ημερίδα «Πράσινη Ηλεκτρική Ενέργεια και Έξυπνα Δίκτυα»                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item827 parent" >
+                            <span class="daddy item bullet nolink">
+                    <span>
+                                            Εκδηλώσεις Τμήματος                                                            </span>
+                </span>
+            
+                                                <div class="fusion-submenu-wrapper level3" style="width:180px;">
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item828" >
+                            <a class="orphan item bullet" href="/gr/the-department/ekdiloseis-tmimatos/graduates2016ceremony.html"  >
+                    <span>
+                                        - Υποδοχή Πρωτοετών Φοιτητών 2016-2017                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item829" >
+                            <span class="orphan item bullet nolink">
+                    <span>
+                                            - Ενημέρωση 4ετών Φοιτητών για τους κύκλους Σπουδών                                                            </span>
+                </span>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item831" >
+                            <a class="orphan item bullet" href="/gr/the-department/alumni.html"  >
+                    <span>
+                                        Απόφοιτοι                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item472 parent root" >
+                            <span class="daddy item bullet nolink">
+                    <span>
+                                            Εκπαίδευση                                                            <span class="daddyicon"></span>
+                                        </span>
+                </span>
+            
+                                                <div class="fusion-submenu-wrapper level2" style="width:180px;">
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item639" >
+                            <a class="orphan item bullet" href="/gr/education/curriculum.html"  >
+                    <span>
+                                        Οδηγός Σπουδών                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item483" >
+                            <a class="orphan item bullet" href="/gr/education/academic-calendar.html"  >
+                    <span>
+                                        Ακαδημαϊκό Ημερολόγιο                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item484 parent" >
+                            <span class="daddy item bullet nolink">
+                    <span>
+                                            Προπτυχιακή                                                            </span>
+                </span>
+            
+                                                <div class="fusion-submenu-wrapper level3" style="width:180px;">
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item516" >
+                            <a class="orphan item bullet" href="/gr/education/undergraduate/under-regulations.html"  >
+                    <span>
+                                        Κανονισμός                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item515" >
+                            <a class="orphan item bullet" href="/gr/education/undergraduate/under-courses.html"  >
+                    <span>
+                                        Μαθήματα                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item760" >
+                            <a class="orphan item bullet" href="/gr/education/undergraduate/studyguide2015-16.html"  >
+                    <span>
+                                        Πρόγραμμα Σπουδών 2015-2016                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item836" >
+                            <a class="orphan item bullet" href="/gr/education/undergraduate/studyguide2016-17.html"  >
+                    <span>
+                                        Πρόγραμμα Σπουδών 2016-2017                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item757" >
+                            <a class="orphan item bullet" href="/gr/education/undergraduate/diatakseis-dilwsis-mathimatwn.html"  >
+                    <span>
+                                        Διατάξεις Δήλωσης Μαθημάτων                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item762" >
+                            <a class="orphan item bullet" href="/gr/education/undergraduate/apofoitisi.html"  >
+                    <span>
+                                        Κανόνες Αποφοίτησης                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item758" >
+                            <a class="orphan item bullet" href="/gr/education/undergraduate/xrisima-entypa.html"  >
+                    <span>
+                                        Χρήσιμα Έντυπα                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item522" >
+                            <a class="orphan item bullet" href="/gr/education/undergraduate/practise-menu.html"  >
+                    <span>
+                                        Πρακτική Άσκηση                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item738" >
+                            <a class="orphan item bullet" href="/gr/education/undergraduate/diploma-theses.html"  >
+                    <span>
+                                        Διπλωματικές Εργασίες                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item518" >
+                            <a class="orphan item bullet" href="/gr/education/undergraduate/under-course-schedule.html"  >
+                    <span>
+                                        Ωρολόγιο Πρόγραμμα Μαθημάτων-Εξετάσεων                                                                  </span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item754" >
+                            <a class="orphan item bullet" href="/gr/education/programmata-metaptyxiakon-spoudwn.html" target="_blank" >
+                    <span>
+                                        Προγράμματα Μεταπτυχιακών Σπουδών                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item487 parent" >
+                            <span class="daddy item bullet nolink">
+                    <span>
+                                            Εκπόνηση Διδακτορικής Διατριβής                                                            </span>
+                </span>
+            
+                                                <div class="fusion-submenu-wrapper level3" style="width:180px;">
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item519" >
+                            <a class="orphan item bullet" href="/gr/education/postgraduate/postgraduate-regulations.html"  >
+                    <span>
+                                        - Θεσμικό Πλαίσιο                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item835" >
+                            <a class="orphan item bullet" href="/gr/education/postgraduate/phd-thesis.html"  >
+                    <span>
+                                        - Ενδεικτικά Γνωστικά Αντικείμενα Διδακτορικών Διατριβών                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item520" >
+                            <a class="orphan item bullet" href="/gr/education/postgraduate/postgraduate-courses.html"  >
+                    <span>
+                                        - Μαθήματα                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item491" >
+                            <a class="orphan item bullet" href="/gr/education/postgraduate/postgraduates.html"  >
+                    <span>
+                                        - Μεταπτυχιακοί Φοιτητές                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item521" >
+                            <a class="orphan item bullet" href="/gr/education/postgraduate/postgraduate-schedule.html"  >
+                    <span>
+                                        - Ωρολόγιο Πρόγραμμα Μαθημάτων-Εξετάσεων                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item837" >
+                            <a class="orphan item bullet" href="/gr/education/assistant-professor.html"  >
+                    <span>
+                                        Σύμβουλος Καθηγητής                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item474 parent root" >
+                            <span class="daddy item bullet nolink">
+                    <span>
+                                            Έρευνα                                                            <span class="daddyicon"></span>
+                                        </span>
+                </span>
+            
+                                                <div class="fusion-submenu-wrapper level2" style="width:180px;">
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item485" >
+                            <a class="orphan item bullet" href="/gr/research/divisions.html"  >
+                    <span>
+                                        Τομείς                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item486" >
+                            <a class="orphan item bullet" href="/gr/research/labs.html"  >
+                    <span>
+                                        Εργαστήρια                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item488" >
+                            <a class="orphan item bullet" href="/gr/research/publications.html"  >
+                    <span>
+                                        Δημοσιεύσεις                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item478" >
+                            <a class="orphan item bullet" href="/gr/research/awards.html"  >
+                    <span>
+                                        Διακρίσεις                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item473 parent active root" >
+                            <span class="daddy item bullet nolink">
+                    <span>
+                                            Προσωπικό                                                            <span class="daddyicon"></span>
+                                        </span>
+                </span>
+            
+                                                <div class="fusion-submenu-wrapper level2" style="width:180px;">
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item489 active" >
+                            <a class="orphan item bullet" href="/gr/personnel/faculty.html"  >
+                    <span>
+                                        Διδακτικό και Ερευνητικό Προσωπικό                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item727" >
+                            <a class="orphan item bullet" href="/gr/personnel/emeriti.html"  >
+                    <span>
+                                        Ομότιμοι Καθηγητές                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item728" >
+                            <a class="orphan item bullet" href="/gr/personnel/honoris-causa.html"  >
+                    <span>
+                                        Επίτιμοι Καθηγητές/Διδάκτορες                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item729" >
+                            <a class="orphan item bullet" href="/gr/personnel/research-collaborators.html"  >
+                    <span>
+                                        Επιστημονικοί Συνεργάτες                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item730" >
+                            <a class="orphan item bullet" href="/gr/personnel/laboratory-staff.html"  >
+                    <span>
+                                        Ε.ΔΙ.Π                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item731" >
+                            <a class="orphan item bullet" href="/gr/personnel/technical-staff.html"  >
+                    <span>
+                                        Ε.Τ.Ε.Π.                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item490" >
+                            <a class="orphan item bullet" href="/gr/personnel/administrative-staff.html"  >
+                    <span>
+                                        Διοικητικό Προσωπικό                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item746 parent root" >
+                            <span class="daddy item bullet nolink">
+                    <span>
+                                            Αξιολογήσεις                                                            <span class="daddyicon"></span>
+                                        </span>
+                </span>
+            
+                                                <div class="fusion-submenu-wrapper level2" style="width:180px;">
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item747" >
+                            <a class="orphan item bullet" href="/gr/evaluation-menu/int-evaluation-menu.html"  >
+                    <span>
+                                        Εσωτερικές                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item748" >
+                            <a class="orphan item bullet" href="/gr/evaluation-menu/ext-evaluation-menu.html"  >
+                    <span>
+                                        Εξωτερικές                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item700 parent root" >
+                            <a class="daddy item bullet" href="/gr/announcementsmenu.html"  >
+                    <span>
+                                        Ανακοινώσεις                                                            <span class="daddyicon"></span>
+                                        </span>
+                </a>
+            
+                                                <div class="fusion-submenu-wrapper level2" style="width:180px;">
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item701" >
+                            <a class="orphan item bullet" href="/gr/announcementsmenu/genikes-an.html"  >
+                    <span>
+                                        Γενικές                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item705" >
+                            <a class="orphan item bullet" href="/gr/announcementsmenu/proptixiaka-an.html"  >
+                    <span>
+                                        Προπτυχιακές Σπουδές                                                             </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item716" >
+                            <a class="orphan item bullet" href="/gr/announcementsmenu/metaptixiaka-an.html"  >
+                    <span>
+                                        Μεταπτυχιακές Σπουδές                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item830" >
+                            <a class="orphan item bullet" href="/gr/announcementsmenu/didaktoriko-anak.html"  >
+                    <span>
+                                        Διδακτορικές Σπουδές                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item833" >
+                            <a class="orphan item bullet" href="/gr/announcementsmenu/ypotrofies.html"  >
+                    <span>
+                                        Υποτροφίες, Μεταπτυχιακά, Συνέδρια                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item719" >
+                            <a class="orphan item bullet" href="/gr/announcementsmenu/prokirikseis-an.html"  >
+                    <span>
+                                        Προκηρύξεις                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item475 parent root" >
+                            <span class="daddy item bullet nolink">
+                    <span>
+                                            Πληροφορίες                                                            <span class="daddyicon"></span>
+                                        </span>
+                </span>
+            
+                                                <div class="fusion-submenu-wrapper level2" style="width:180px;">
+                        
+                        <ul class="level2" style="width:180px;">
+                                                                                                        <li class="item492" >
+                            <a class="orphan item bullet" href="/gr/information-menu/location-menu.html"  >
+                    <span>
+                                        Τοποθεσία                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item576" >
+                            <a class="orphan item bullet" href="/gr/information-menu/access-map.html"  >
+                    <span>
+                                        Χάρτες Πρόσβασης                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item526 parent" >
+                            <span class="daddy item bullet nolink">
+                    <span>
+                                            Σύνδεσμοι                                                            </span>
+                </span>
+            
+                                                <div class="fusion-submenu-wrapper level3" style="width:180px;">
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item527" >
+                            <a class="orphan item bullet" href="/gr/information-menu/links-menu/universities-menu.html"  >
+                    <span>
+                                        Πανεπιστήμια                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item529" >
+                            <a class="orphan item bullet" href="/gr/information-menu/links-menu/institutes-menu.html"  >
+                    <span>
+                                        Ερ. Ινστιτούτα                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item528" >
+                            <a class="orphan item bullet" href="/gr/information-menu/links-menu/societies-menu.html"  >
+                    <span>
+                                        Επιστ. Οργανισμοί                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item530" >
+                            <a class="orphan item bullet" href="/gr/information-menu/links-menu/goverment-societies-menu.html"  >
+                    <span>
+                                        Κυβερ. Οργανισμοί                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item531" >
+                            <a class="orphan item bullet" href="/gr/information-menu/links-menu/web-sites-menu.html"  >
+                    <span>
+                                        Δικτυακοί Τόποι                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item508 parent" >
+                            <span class="daddy item bullet nolink">
+                    <span>
+                                            Παροχές                                                            </span>
+                </span>
+            
+                                                <div class="fusion-submenu-wrapper level3" style="width:180px;">
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item496" >
+                            <a class="orphan item bullet" href="/gr/information-menu/student-care-menu/residence-menu.html"  >
+                    <span>
+                                        Φοιτητική Εστία                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item495" >
+                            <a class="orphan item bullet" href="/gr/information-menu/student-care-menu/meals-menu.html"  >
+                    <span>
+                                        Σίτιση                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item497" >
+                            <a class="orphan item bullet" href="/gr/information-menu/student-care-menu/library-menu.html"  >
+                    <span>
+                                        Βιβλιοθήκη (ΒΥΠ)                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item498" >
+                            <a class="orphan item bullet" href="/gr/information-menu/student-care-menu/gymnasium-menu.html"  >
+                    <span>
+                                        Γυμναστήριο                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item503" >
+                            <a class="orphan item bullet" href="/gr/information-menu/student-care-menu/health-care-menu.html"  >
+                    <span>
+                                        Υγειονομική Περίθαλψη                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item504" >
+                            <a class="orphan item bullet" href="/gr/information-menu/student-care-menu/ticket-menu.html"  >
+                    <span>
+                                        Φοιτητικό Εισιτήριο                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item493 parent" >
+                            <span class="daddy item bullet nolink">
+                    <span>
+                                            Γενικά                                                            </span>
+                </span>
+            
+                                                <div class="fusion-submenu-wrapper level3" style="width:180px;">
+                        
+                        <ul class="level3" style="width:180px;">
+                                                                                                        <li class="item500" >
+                            <a class="orphan item bullet" href="/gr/information-menu/general-menu/transfer-menu.html"  >
+                    <span>
+                                        Μετεγγραφές                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item501" >
+                            <a class="orphan item bullet" href="/gr/information-menu/general-menu/rankings-menu.html"  >
+                    <span>
+                                        Κατατάξεις                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item502" >
+                            <a class="orphan item bullet" href="/gr/information-menu/general-menu/postponement-menu.html"  >
+                    <span>
+                                        Αναβολή Στρατού                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item506" >
+                            <a class="orphan item bullet" href="/gr/information-menu/general-menu/transportation-menu.html"  >
+                    <span>
+                                        Συγκοινωνία                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item507" >
+                            <a class="orphan item bullet" href="/gr/information-menu/general-menu/cultural-events-menu.html"  >
+                    <span>
+                                        Πολ. Εκδηλώσεις                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item523" >
+                            <a class="orphan item bullet" href="/gr/information-menu/general-menu/rights-menu.html"  >
+                    <span>
+                                        Επαγγ. Δικαιώματα                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item494" >
+                            <a class="orphan item bullet" href="/gr/information-menu/general-menu/secretariat-menu.html"  >
+                    <span>
+                                        Γραμματεία                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                                                                                <li class="item499" >
+                            <a class="orphan item bullet" href="/gr/information-menu/general-menu/registration-menu.html"  >
+                    <span>
+                                        Εγγραφή Πρωτοετών Φοιτητών                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                                                                                                                                <li class="item629" >
+                            <a class="orphan item bullet" href="/gr/information-menu/site-map.html"  >
+                    <span>
+                                        Site Map                                                            </span>
+                </a>
+            
+                    </li>
+                                                                                            </ul>
+
+                                                <div class="drop-bot"></div>
+                    </div>
+                                    </li>
+                                <li class="item524 root" >
+                            <a class="orphan item bullet" href="/gr/contact-menu.html"  >
+                    <span>
+                                        Επικοινωνία                                                            </span>
+                </a>
+            
+                    </li>
+                    </ul>
+</div>
+</div>
+</div>
+							<div class="clear"></div>
+						</div>
+					</div>
+																																							              
+<div id="rt-main" class="sa3-mb9">
+                <div class="rt-container">
+                    <div class="rt-grid-9 rt-push-3">
+                                                <div id="rt-content-top">
+                                                    </div>
+                                                						<div class="rt-block">
+	                        <div id="rt-mainbody">
+								<div class="component-content">
+	                            	<div class="rt-article"><div class="rt-article-bg">
+	<div class="item-page">
+						<h2 class="title">
+							Μέλη ΔΕΠ					</h2>
+		
+		
+		
+		
+		
+															
+				
+		
+					<div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_default_105"></div>
+
+</div><p style="text-align: justify;" align="justify"><span style="font-size: 12pt; font-family: times new roman,times;"></span></p>
+<p style="text-align: justify;" align="justify"><a href="/images/Announcement_files/Secr_Files/faculty_per_division.pdf" target="_blank"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Κατανομή μελών ΔΕΠ ανά Τομέα</span></a></p>
+<p style="text-align: justify;" align="justify"><strong><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Αναλυτική παρουσίαση μελών ΔΕΠ Τμήματος</span></strong></p>
+<table align="center" border="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0.75pt;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/Avouris_291007_001920.jpg" alt="Avouris 291007 001920" height="147" width="118" /></span></p>
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=288">Αβούρης Νικόλαος</a><br /> <span style="background-color: #ffffff; color: #000000;">Καθηγητής</span><br /><a href="/gr/personnel/faculty.html?id=380"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Ηλεκτρονικής και Υπολογιστών</span></span></a></span></p>
+</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/AA2013.jpg" alt="AA2013" height="147" width="118" /></span></p>
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=287">Αλεξανδρίδης Αντώνης</a><a href="http://www.ece.ntua.gr/el/people/faculty?view=profile&amp;id=79"><br /> </a>Καθηγητής<a href="http://www.ece.ntua.gr/el/people/faculty?view=profile&amp;id=79"><br /></a>&nbsp;<span style="line-height: 115%;">&nbsp;</span><a href="/gr/personnel/faculty.html?id=379"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Συστημάτων Ηλεκτρικής Ενέργειας</span></span></a></span></p>
+</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top"><span style="font-size: 10pt;">&nbsp;</span></td>
+<td style="padding: 0.75pt; text-align: center;" align="center" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/TA_1.JPG" alt="TA 1" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=289">Αντωνακόπουλος Θεόδωρος</a><br /> Καθηγητής<br />&nbsp; &nbsp;<span style="line-height: 115%;">&nbsp;</span><a href="/gr/personnel/faculty.html?id=378"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Τηλεπικοινωνιών και Τεχνολογίας Πληροφορίας</span></span> </a></span></td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; line-height: normal; text-align: center;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/φωτογραφια_διαβατηριου0001.jpg" alt="φωτογραφια διαβατηριου0001" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=290">Βοβός Νικόλαος</a><br /> Καθηγητής<br />&nbsp; &nbsp;<span style="line-height: 115%;">&nbsp;</span><a href="/gr/personnel/faculty.html?id=379"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Συστημάτων Ηλεκτρικής Ενέργειας</span></span></a></span></td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr align="center">
+<td style="padding: 0.75pt;" valign="top">
+<p style="margin-bottom: 0.0001pt; line-height: normal; text-align: center;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/vovos_panagis.jpg" alt="vovos panagis" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=948">Βοβός Παναγής</a><br />Λέκτορας<br />&nbsp; &nbsp;<a href="/gr/personnel/faculty.html?id=379"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Συστημάτων Ηλεκτρικής&nbsp;&nbsp; Ενέργειας</span></span></a></span></td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/giannakop.jpg" alt="giannakop" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=291">Γιαννακόπουλος Γαβριήλ</a><br /> Καθηγητής<br />&nbsp; &nbsp;<a href="/gr/personnel/faculty.html?id=379"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Συστημάτων Ηλεκτρικής Ενέργειας</span></span></a></span></td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/Groumbos_100512_145903.jpg" alt="Groumbos 100512 145903" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=292">Γρουμπός Πέτρος</a><br /> Καθηγητής<br /> <a href="/gr/personnel/faculty.html?id=381"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Συστημάτων και Αυτόματου Ελέγχου</span></span></a></span></span></td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">
+<p style="text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/SophiaDeptWebsite.jpg" alt="SophiaDeptWebsite" height="147" width="118" /></span></p>
+<p><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=900">Δασκαλάκη Σοφία</a><br /> Επίκουρη <span style="color: #000000; font-size: 13.333333015441895px; text-align: center;">Καθηγήτρια</span><br style="color: #000000; font-size: 13.333333015441895px; text-align: center;" /><a href="/gr/personnel/faculty.html?id=380" style="font-size: 13.333333015441895px; text-align: center;"><span style="line-height: 15.333332061767578px;"><span style="line-height: 15.333332061767578px; color: blue;">Τομέας Ηλεκτρονικής και Υπολογιστών</span></span></a>&nbsp;</span><span style="font-size: 10pt;"><span style="line-height: 15.333332061767578px;"><span style="line-height: 15.333332061767578px; color: blue;"><a href="/gr/personnel/faculty.html?id=380"><br /></a></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt; text-align: center;" valign="top"><span style="font-size: 10pt;">&nbsp;</span></td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top"><span>&nbsp;</span></td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt; text-align: center;" valign="top"><span style="font-size: 10pt;">&nbsp;</span></td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top"><span>&nbsp;</span></td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">&nbsp;</td>
+</tr>
+<tr align="center">
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/DENAZIS.jpg" alt="DENAZIS" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=293">Δενάζης Σπύρος</a><br />Αναπληρωτής Καθηγητής<br /> &nbsp; <a href="/gr/personnel/faculty.html?id=378"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Τηλεπικοινωνιών και Τεχνολογίας Πληροφορίας</span></span> </a></span></td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/evangelos-dermatas.jpg" alt="evangelos-dermatas" height="145" width="124" /></span></p>
+<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=294">Δερματάς Ευάγγελος</a><br />&nbsp; Αναπληρωτής Καθηγητής<br /> &nbsp; <a href="/gr/personnel/faculty.html?id=378"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Τηλεπικοινωνιών και Τεχνολογίας Πληροφορίας</span></span> </a></span></td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/zaharias.jpg" alt="zaharias" height="147" width="118" /></span></p>
+<span><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=296">Ζαχαρίας Θωμάς</a><br />&nbsp; Αναπληρωτής Καθηγητής<br /> <a href="/gr/personnel/faculty.html?id=379"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Συστημάτων Ηλεκτρικής Ενέργειας</span></span></a></span><br /> &nbsp; </span></td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/theodoridis.png" alt="theodoridis" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=297">Θεοδωρίδης Γεώργιος</a><br /> Επίκουρος Καθηγητής<br /> <a href="/gr/personnel/faculty.html?id=380"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Ηλεκτρονικής και Υπολογιστών</span></span></a></span>&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr align="center">
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/Thramboulidis_220711_142746.jpg" alt="Thramboulidis 220711 142746" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=298">Θραμπουλίδης Κλεάνθης</a><br /> Καθηγητής<br /> <a href="/gr/personnel/faculty.html?id=380"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Ηλεκτρονικής και Υπολογιστών</span></span></a></span></td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/DimosKazakos-web.jpg" alt="DimosKazakos-web" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=299">Καζάκος Δημοσθένης</a><br /> Επίκουρος Καθηγητής<br /> <a href="/gr/personnel/faculty.html?id=381"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Συστημάτων και Αυτόματου Ελέγχου</span></span></a></span></td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/Kalantonis_Photo.jpg" alt="Kalantonis Photo" height="147" width="118" /></span></p>
+<p><span style="font-size: 10pt;"><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=901">Καλαντώνης Βασίλειος</a><br /><span style="color: #000000; font-size: 13.333333015441895px; text-align: center;">Επίκουρος Καθηγητής</span><br style="color: #000000; font-size: 13.333333015441895px; text-align: center;" /><span style="color: #000000; font-size: 13.333333015441895px; text-align: center;">&nbsp; &nbsp;</span><a href="/gr/personnel/faculty.html?id=379" style="font-size: 13.333333015441895px; text-align: center;"><span style="line-height: 15.333332061767578px;"><span style="line-height: 15.333332061767578px; color: blue;">Τομέας Συστημάτων Ηλεκτρικής Ενέργειας</span></span></a><br /></span></span></p>
+</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/Kalivas_070409_123646.jpg" alt="Kalivas 070409 123646" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=300">Καλύβας Γρηγόριος</a><br />Καθηγητής<br /> <a href="/gr/personnel/faculty.html?id=380"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Ηλεκτρονικής και Υπολογιστών</span></span></a></span>&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr align="center">
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p><span style="font-size: 12pt; font-family: times new roman,times;"><img style="margin-right: auto; margin-left: auto; display: block;" src="/images/photo2.jpg" alt="photo2" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=301">Καππάτου Τζόγια</a><br />Αναπληρώτρια Καθηγήτρια<br />&nbsp; &nbsp;<a href="/gr/personnel/faculty.html?id=379"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Συστημάτων Ηλεκτρικής Ενέργειας</span></span></a></span></td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/koukias.jpg" alt="koukias" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=302">Κουκιάς Μιχαήλ</a><br /> Επίκουρος Καθηγητής<br /> <a href="/gr/personnel/faculty.html?id=378"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Τηλεπικοινωνιών και Τεχνολογίας Πληροφορίας</span></span> </a></span></td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/Koulouridis_121011_141525.jpg" alt="Koulouridis 121011 141525" height="147" width="118" /></span></p>
+<p><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=303">Κουλουρίδης Σταύρος</a><br />&nbsp;Επίκουρος Καθηγητής<br />&nbsp;&nbsp;&nbsp;<span style="line-height: 115%;"><span style="line-height: 115%; color: blue;"><a href="/gr/personnel/faculty.html?id=378">Τομέας Τηλεπικοινωνιών και Τεχνολογίας Πληροφορίας</a></span></span></span></p>
+</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><img src="/images/Koubias_070409_120956.jpg" alt="Koubias 070409 120956" width="118" height="147" /></p>
+<p><span style="font-size: 10pt;">&nbsp;</span><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=304">Κουμπιάς Σταύρος</a></span></p>
+<p><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=304"></a></span><span style="font-size: 10pt;">Καθηγητής</span></p>
+<p><span style="font-size: 10pt;">&nbsp;<a href="/gr/personnel/faculty.html?id=380"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Ηλεκτρονικής και Υπολογιστών</span></span></a></span></p>
+</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr align="center">
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/KOUNAVIS3.JPG" alt="KOUNAVIS3" height="147" width="118" /></span></p>
+<p><span><span style="font-size: 12pt;"><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=904">Κουνάβης Παναγιώτης</a> <br /><span style="color: #000000; font-size: 13.333333015441895px; text-align: center;">Αναπληρωτής Καθηγητής</span><br style="color: #000000; font-size: 13.333333015441895px; text-align: center;" /><span style="color: #000000; font-size: 13.333333015441895px; text-align: center;">&nbsp; &nbsp;</span><a href="/gr/personnel/faculty.html?id=379" style="font-size: 13.333333015441895px; text-align: center;"><span style="line-height: 15.333332061767578px;"><span style="line-height: 15.333332061767578px; color: blue;">Τομέας Συστημάτων Ηλεκτρικής Ενέργειας</span></span></a><br /></span></span></span></p>
+<p>&nbsp;</p>
+</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/Koussoulas.jpg" alt="Koussoulas" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=305">Κούσουλας Νικόλαος</a><br /> Καθηγητής<br />&nbsp; &nbsp;<a href="/gr/personnel/faculty.html?id=381"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Συστημάτων και Αυτόματου Ελέγχου</span></span></a></span></td>
+<td style="padding: 0.75pt; text-align: center;" valign="top"><span style="font-size: 10pt;">&nbsp;</span></td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/Koufopavlou_070409_124442.jpg" alt="Koufopavlou 070409 124442" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=306">Κουφοπαύλου Οδυσσέας</a><br /> Καθηγητής<br /> <a href="/gr/personnel/faculty.html?id=380"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Ηλεκτρονικής και Υπολογιστών</span></span></a></span></span></td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/kotsopoulos2.jpg" alt="kotsopoulos2" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=307">Κωτσόπουλος Σταύρος</a><br /> Καθηγητής<br />&nbsp; &nbsp;<a href="/gr/personnel/faculty.html?id=378"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Τηλεπικοινωνιών και Τεχνολογίας Πληροφορίας</span></span>&nbsp;</a></span></td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr align="center">
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/m-logo.jpg" alt="m-logo" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=308">Λογοθέτης Μιχαήλ</a><br /> Καθηγητής<br />&nbsp; &nbsp;<a href="/gr/personnel/faculty.html?id=378"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Τηλεπικοινωνιών και Τεχνολογίας Πληροφορίας</span></span> </a></span></td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/Lymberopoulos_121011_141638.jpg" alt="Lymberopoulos 121011 141638" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=309">Λυμπερόπουλος Δημήτριος</a></span><br /><span style="font-size: 10pt;"> Καθηγητής</span><br /><span style="font-size: 10pt;"> <a href="/gr/personnel/faculty.html?id=378"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Τηλεπικοινωνιών και Τεχνολογίας Πληροφορίας</span></span>&nbsp; </a></span></span></td>
+<td style="padding: 0.75pt; text-align: center;" valign="top"><span style="font-size: 10pt;">&nbsp;</span></td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/manesis.jpg" alt="manesis" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=310">Μάνεσης Σταμάτιος</a><br /> Καθηγητής<br /> <a href="/gr/personnel/faculty.html?id=381"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Συστημάτων και Αυτόματου Ελέγχου</span></span></a></span>&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/Markakis2.jpg" alt="Markakis2" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=902">Μαρκάκης Μιχαήλ</a><br /> Επίκουρος&nbsp;<span style="color: #000000; text-align: center; font-size: 10pt;">Καθηγητής<br /><a href="/gr/personnel/faculty.html?id=381"><span style="line-height: 15.333332061767578px;"><span style="line-height: 15.333332061767578px; color: blue;">Τομέας Συστημάτων και Αυτόματου Ελέγχου</span></span></a></span></span></td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr align="center">
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/Mitronikas_180412_111603.jpg" alt="Mitronikas 180412 111603" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=311">Μητρονίκας Επαμεινώνδας</a><br /> Επίκουρος Καθηγητής<br />&nbsp; &nbsp;<a href="/gr/personnel/faculty.html?id=379"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Συστημάτων Ηλεκτρικής Ενέργειας</span></span></a></span><br /><span style="font-size: 10pt;">&nbsp;</span></td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/Mourjopoulos2010ddd.jpg" alt="Mourjopoulos2010ddd" height="147" width="118" /></span></p>
+<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=312">Μουρτζόπουλος Ιωάννης</a><br /> Καθηγητής<br />&nbsp; <a href="/gr/personnel/faculty.html?id=378"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Τηλεπικοινωνιών και Τεχνολογίας Πληροφορίας</span></span></a>&nbsp; </span></td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/Moustakas_070312_113953.jpg" alt="Moustakas 070312 113953" height="147" width="118" /></span></p>
+<span><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=313">Μουστάκας Κωνσταντίνος</a><br />Αναπληρωτής Καθηγητής<br />&nbsp; &nbsp;<a href="/gr/personnel/faculty.html?id=378"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Τηλεπικοινωνιών και Τεχνολογίας Πληροφορίας</span></span> </a></span></span><br /><span style="font-size: 10pt;">&nbsp;</span></td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/Moustakides_070207_105129.jpg" alt="Moustakides 070207 105129" height="147" width="118" /></span></p>
+<p><span><span style="font-size: 10pt;"><span style="font-size: 10pt;">&nbsp;</span><a href="/gr/personnel/faculty.html?id=314">Μουστακίδης Γεώργιος</a><br /> Καθηγητής<br />&nbsp; <a href="/gr/personnel/faculty.html?id=380"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Ηλεκτρονικής και Υπολογιστών</span></span></a></span></span></p>
+<p><span style="color: #000000;"><span style="font-size: 10pt;"><span style="line-height: 115%;"><span style="line-height: 115%;">(σε άδεια)</span></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr align="center">
+<td style="padding: 0.75pt;" valign="top">
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="font-size: 12pt; font-family: times new roman,times;"><img src="/images/IMG_5138.JPG" alt="IMG 5138" height="142" width="118" /></span></p>
+<p><span style="font-size: 10pt;"><span style="font-size: 10pt;"><span style="line-height: 115%;"><span><span style="font-size: 10pt;">&nbsp;</span></span></span>&nbsp;<a href="/gr/personnel/faculty.html?id=315">Μπίρμπας Αλέξιος</a><br /> Καθηγητής<br />&nbsp; <a href="/gr/personnel/faculty.html?id=380"><span style="line-height: 115%;"><span style="line-height: 115%; color: blue;">Τομέας Ηλεκτρονικής και Υπολογιστών</span></span></a></span></span></p>
+<p><span style="font-size: 10pt; color: #000000;"><span style="font-size: 10pt;"><span style="line-height: 115%;"><span style="line-height: 115%;">(σε άδεια)</span></span></span></span></p>
+</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">
+<p style="margin-bottom: 0.0001pt; color: #000000; text-align: center;" align="center"><img src="/images/profile_photo.jpg" alt="profile photo" style="color: #000000; font-family: 'times new roman', times; font-size: 16px; text-align: center;" height="147" width="118" /></p>
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="color: #000000; text-align: -webkit-center; font-size: 10pt;"><span style="font-size: 10pt;"><span style="line-height: 15.3333px;"></span>&nbsp;<a href="/gr/personnel/faculty.html?id=1285">Μπίρμπας&nbsp;Μιχάλης</a><br />Επίκουρος Καθηγητής<br />&nbsp;&nbsp;<a href="/gr/personnel/faculty.html?id=380"><span style="line-height: 15.3333px;"><span style="line-height: 15.3333px; color: blue;">Τομέας Ηλεκτρονικής και Υπολογιστών</span></span></a></span></span></p>
+</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top"><span style="font-size: 10pt;">&nbsp;</span></td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; color: #000000; text-align: center;" align="center"><span style="font-size: 12pt; font-family: 'times new roman', times;"><img src="/images/bitsioris.jpg" alt="bitsioris" height="147" width="118" /></span></p>
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="color: #000000; text-align: -webkit-center; font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=316">Μπιτσώρης Γεώργιος</a><br />Καθηγητής<br />&nbsp; &nbsp;<a href="/gr/personnel/faculty.html?id=381"><span style="line-height: 15.3333px;"><span style="line-height: 15.3333px; color: blue;">Τομέας Συστημάτων και Αυτόματου Ελέγχου</span></span></a></span></p>
+</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; color: #000000; text-align: center;" align="center"><span style="font-size: 12pt; font-family: 'times new roman', times;"><img src="/images/Picture_of_me_1.png" alt="Picture of me 1" height="147" width="118" /></span></p>
+<p style="margin-bottom: 0.0001pt; text-align: center; line-height: normal;" align="center"><span style="color: #000000; text-align: center; font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=317">Παλιουράς Βασίλης</a><br />&nbsp; Αναπληρωτής Καθηγητής<br />&nbsp; &nbsp;<span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=380"><span style="line-height: 15.3333px;"><span style="line-height: 15.3333px; color: blue;">Τομέας Ηλεκτρονικής και Υπολογιστών</span></span></a></span></span></p>
+</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr align="center">
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p>&nbsp;<span style="font-size: 12pt; font-family: 'times new roman', times;"><img src="/images/Photo_Perdios.jpg" alt="Photo Perdios" height="147" width="118" /></span></p>
+<p><span style="color: #000000; text-align: center; font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=903">Περδίος Ευστάθιος</a><br /><span style="color: #000000; text-align: center; font-size: 10pt;">Καθηγητής<br /><a href="/gr/personnel/faculty.html?id=381"><span style="line-height: 15.333332061767578px;"><span style="line-height: 15.333332061767578px; color: blue;">Τομέας Συστημάτων και Αυτόματου Ελέγχου</span></span></a></span><br />&nbsp;<span style="font-size: 10pt;"><span style="line-height: 15.3333px;"></span></span></span></p>
+</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">
+<p style="color: #000000; text-align: center;"><span style="margin: 0px; padding: 0px; border: 0px none; outline: none 0px; font-size: 12px; background-color: transparent;"><span style="margin: 0px; padding: 0px; border: 0px none; outline: none 0px; font-size: 10pt; background-color: transparent;"><span style="border-color: initial; border-image: initial; outline: none medium;"><img src="/images/RITSA_modified.jpg" alt="RITSA modified" style="color: #000000; font-family: 'times new roman', times; font-size: 16px; text-align: center;" height="147" width="118" /></span><a href="/gr/personnel/faculty.html?id=318"><span color="#05235c" style="color: #05235c;"><span style="border-color: initial; border-image: initial; outline-color: initial; outline-width: medium; font-size: 13px;">&nbsp;</span></span></a></span></span></p>
+<p style="color: #000000; text-align: center;"><span style="margin: 0px; padding: 0px; border: 0px none; outline: none 0px; font-size: 12px; background-color: transparent;"><span style="margin: 0px; padding: 0px; border: 0px none; outline: none 0px; font-size: 10pt; background-color: transparent;"><a href="/gr/personnel/faculty.html?id=319" style="font-size: 13px; text-align: -webkit-center;">Πυργιώτη Ελευθερία</a><a href="/gr/personnel/faculty.html?id=318" style="color: #000000;"><br style="color: #000000; font-size: 13px; text-align: -webkit-center;" /><span style="color: #000000; font-size: 13px; text-align: -webkit-center;">Αναπληρώτρια Καθηγήτρια</span><br style="color: #000000; font-size: 13px; text-align: -webkit-center;" /><span style="color: #000000; font-size: 13px; text-align: -webkit-center;"></span></a><span style="line-height: 15.3333px;"><span style="line-height: 15.3333px; color: blue;">&nbsp; &nbsp;<a href="/gr/personnel/faculty.html?id=379" style="font-size: 13px; text-align: -webkit-center;">Τομέας Συστημάτων</a><span color="#0000ff" style="color: #0000ff;"> </span><a href="/gr/personnel/faculty.html?id=379" style="font-size: 13px; text-align: -webkit-center;">Ηλεκτρικής Ενέργειας</a></span></span><a href="/gr/personnel/faculty.html?id=318" style="color: #000000;"><br /></a></span></span></p>
+</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top"><span style="font-size: 10pt;">&nbsp;</span></td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; color: #000000; text-align: -webkit-center;" align="center"><span style="font-size: 12pt; font-family: 'times new roman', times;"><span style="margin: 0px; padding: 0px; border: 0px none; outline: none 0px; font-size: 12pt; color: #333333; line-height: 20.4px;"><img src="/images/profile_photo.jpg" alt="profile photo" style="border-style: none; margin: 0px; padding: 0px; outline: none 0px; background-color: transparent;" height="147" width="118" /></span></span></p>
+<p style="margin-bottom: 0.0001pt; color: #000000; text-align: -webkit-center;" align="center"><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=321" style="color: #000000; text-decoration: none;">Σβάρνας Παναγιώτης</a><br />Αναπληρωτής Καθηγητής<br />&nbsp; &nbsp;<span style="line-height: 15.3333px;"><span style="line-height: 15.3333px; color: blue;"><a href="/gr/personnel/faculty.html?id=379">Τομέας Συστημάτων</a>&nbsp;<a href="/gr/personnel/faculty.html?id=379">Ηλεκτρικής Ενέργειας</a></span></span></span></p>
+<span style="color: #000000; text-align: -webkit-center;"><span style="margin: 0px; padding: 0px; border: 0px none; outline: none 0px; font-size: 16px; background-color: transparent;"><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=319"><br /></a></span></span></span></td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; color: #000000; text-align: -webkit-center;" align="center"><span style="font-size: 12pt; font-family: 'times new roman', times;"><img src="/images/Sgarbas_121011_141835.jpg" alt="Sgarbas 121011 141835" height="147" width="118" /></span></p>
+<p style="margin-bottom: 0.0001pt; color: #000000; text-align: -webkit-center;" align="center"><span style="color: #000000; text-align: -webkit-center; font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=322">Σγάρμπας Κυριάκος</a><br />Αναπληρωτής Καθηγητής<br />&nbsp; &nbsp;<span style="line-height: 15.3333px;"><span style="line-height: 15.3333px; color: blue;"><a href="/gr/personnel/faculty.html?id=378">Τομέας Τηλεπικοινωνιών και Τεχνολογίας Πληροφορίας</a></span></span></span></p>
+</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr align="center">
+<td style="padding: 0.75pt;" valign="top">
+<p style="margin-bottom: 0.0001pt; color: #000000; text-align: -webkit-center;" align="center"><span style="font-size: 12pt; font-family: 'times new roman', times;"><img src="/images/Serpanos_070409_125241.jpg" alt="Serpanos 070409 125241" height="147" width="118" /></span></p>
+<p style="color: #000000; text-align: -webkit-center;"><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=323">Σερπάνος Δημήτριος</a><br />Καθηγητής<br /><span style="line-height: 15.3333px;"><span style="line-height: 15.3333px; color: blue;"><a href="/gr/personnel/faculty.html?id=380">Τομέας Ηλεκτρονικής και Υπολογιστών</a></span></span></span></p>
+</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">
+<p style="margin-bottom: 0.0001pt; color: #000000; text-align: -webkit-center;" align="center"><img src="/images/profile_photo.jpg" alt="profile photo" style="border-style: none; outline: none 0px; font-family: 'times new roman', times; font-size: 16px; text-align: -webkit-center; margin: 0px; padding: 0px; background-color: transparent;" height="147" width="118" /></p>
+<p style="margin-bottom: 0.0001pt; color: #000000; text-align: -webkit-center;" align="center"><span style="font-size: 13px; text-align: -webkit-center; color: #000000; text-decoration: none;">Σκούρας Ελευθέριος<span style="color: #000000; font-size: 13px; text-align: -webkit-center;"></span></span><br style="color: #000000; font-size: 13px; text-align: -webkit-center;" /><span style="color: #000000; font-size: 13px; text-align: -webkit-center;"><span style="color: #000000; font-size: 13.333333015441895px; text-align: -webkit-center;">Αναπληρωτής Καθηγητής</span><br style="color: #000000; font-size: 13.333333015441895px; text-align: -webkit-center;" /><span style="color: #000000; font-size: 13.333333015441895px; text-align: -webkit-center;">&nbsp; &nbsp;</span><span style="color: #000000; font-size: 13.333333015441895px; text-align: -webkit-center; line-height: 15.3333px;"><span style="line-height: 15.3333px; color: blue;"><a href="/gr/personnel/faculty.html?id=378">Τομέας Τηλεπικοινωνιών και Τεχνολογίας Πληροφορίας</a></span></span></span></p>
+<p style="margin-bottom: 0.0001pt; color: #000000; text-align: -webkit-center;" align="center">&nbsp;</p>
+</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top"><span style="font-size: 10pt;">&nbsp;</span></td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; color: #000000; text-align: -webkit-center;" align="center"><span style="font-size: 12pt; font-family: 'times new roman', times;"><img src="/images/Skodras.jpg" alt="Skodras" height="147" width="118" /></span></p>
+<span style="color: #000000; text-align: -webkit-center; font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=672">Σκόδρας Αθανάσιος</a><br />Καθηγητής<br /><span style="line-height: 15.3333px;"><span style="line-height: 15.3333px; color: blue;"><a href="/gr/personnel/faculty.html?id=381">Τομέας Συστημάτων και Αυτόματου Ελέγχου</a></span></span></span></td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; color: #000000; text-align: -webkit-center;" align="center"><span style="font-size: 12pt; font-family: 'times new roman', times;"><img src="/images/Stathopoulou_070207_153820.jpg" alt="Stathopoulou 070207 153820" height="147" width="118" /></span></p>
+<span style="color: #000000; text-align: -webkit-center; font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=325">Σταθοπούλου Πολυξένη</a><br />Λέκτορας<br />&nbsp;&nbsp;<a href="/gr/personnel/faculty.html?id=380"><span style="line-height: 15.3333px;"><span style="line-height: 15.3333px; color: blue;">Τομέας Ηλεκτρονικής και Υπολογιστών</span></span></a></span></td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p align="center" style="margin-bottom: 0.0001pt; color: #000000; text-align: center;"><span style="font-size: 10pt;"><img src="/images/stylianakis.jpg" alt="stylianakis" height="147" width="118" /></span></p>
+<p align="center" style="margin-bottom: 0.0001pt; color: #000000; text-align: center; line-height: normal;"><span><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=327">Στυλιανάκης Βασίλειος</a><br />Επίκουρος Καθηγητής<br />&nbsp; &nbsp;<a href="/gr/personnel/faculty.html?id=378"><span style="line-height: 15.3333px;"><span style="line-height: 15.3333px; color: blue;">Τομέας Τηλεπικοινωνιών και Τεχνολογίας Πληροφορίας</span></span></a></span></span></p>
+</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p align="center" style="margin-bottom: 0.0001pt; color: #000000; text-align: center;"><span style="font-size: 12pt; font-family: 'times new roman', times;"><img src="/images/Img66350ok.jpg" alt="Img66350ok" height="147" width="118" /></span></p>
+<p align="center" style="margin-bottom: 0.0001pt; color: #000000; text-align: center;"><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=329">Τατάκης Εμμανουήλ</a><br />Καθηγητής<br />&nbsp; &nbsp;<a href="/gr/personnel/faculty.html?id=379" style="color: #000000; text-decoration: none;"><span style="line-height: 15.3333px;"><span style="line-height: 15.3333px; color: blue;">Τομέας Συστημάτων Ηλεκτρικής Ενέργειας</span></span></a></span></p>
+</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top"><span style="font-size: 10pt;"><span style="font-size: 10pt;">&nbsp;</span></span></td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p align="center" style="margin-bottom: 0.0001pt; color: #000000; text-align: center;"><span style="font-size: 12pt; font-family: 'times new roman', times;"><img src="/images/tzes_photo.jpg" alt="tzes photo" height="147" width="118" /></span></p>
+<p align="center" style="margin-bottom: 0.0001pt; color: #000000; text-align: center;"><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=330">Τζές Αντώνιος</a><br />Καθηγητής<br />&nbsp; &nbsp;<a href="/gr/personnel/faculty.html?id=381"><span style="line-height: 15.3333px;"><span style="line-height: 15.3333px; color: blue;">Τομέας Συστημάτων και Αυτόματου Ελέγχου</span></span></a></span></p>
+<p align="center" style="margin-bottom: 0.0001pt; color: #000000; text-align: center;"><span style="font-size: 10pt;">(σε άδεια)</span></p>
+</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p align="center" style="margin-bottom: 0.0001pt; color: #000000; text-align: center;"><span style="font-size: 12pt; font-family: 'times new roman', times;"><img src="/images/Toumpakaris_040212_194148.jpg" alt="Toumpakaris 040212 194148" height="147" width="118" /></span></p>
+<p style="color: #000000; text-align: center;"><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=331">Τουμπακάρης Δημήτρης-Αλέξανδρος</a><br />Επίκουρος Καθηγητής<br />&nbsp; &nbsp;<a href="/gr/personnel/faculty.html?id=378"><span style="line-height: 15.3333px;"><span style="line-height: 15.3333px; color: blue;">Τομέας Τηλεπικοινωνιών και Τεχνολογίας Πληροφορίας</span></span></a></span></p>
+<p style="color: #000000; text-align: center;"><span style="font-size: 10pt;"><span style="line-height: 15.3333px;">(σε άδεια)</span></span></p>
+</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p align="center" style="margin-bottom: 0.0001pt; color: #000000; text-align: center;"><span style="font-size: 12pt; font-family: 'times new roman', times;"><img src="/images/Fakotakis_041111_225804.jpg" alt="Fakotakis 041111 225804" height="147" width="118" /></span></p>
+<p align="center" style="margin-bottom: 0.0001pt; color: #000000; text-align: center;"><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=332">Φακωτάκης Νίκος</a><br />Καθηγητής<br />&nbsp; &nbsp;<a href="/gr/personnel/faculty.html?id=378"><span style="line-height: 15.3333px;"><span style="line-height: 15.3333px; color: blue;">Τομέας Τηλεπικοινωνιών και Τεχνολογίας Πληροφορίας</span></span></a></span></p>
+</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p align="center" style="margin-bottom: 0.0001pt; color: #000000; text-align: center;"><span style="font-size: 12pt; font-family: 'times new roman', times;"><img src="/images/housos.jpg" alt="housos" height="147" width="118" /></span></p>
+<p align="center" style="margin-bottom: 0.0001pt; color: #000000; text-align: center;"><span style="font-size: 10pt;"><a href="/gr/personnel/faculty.html?id=333">Χούσος Ευθύμιος</a><br />Καθηγητής<br /><a href="/gr/personnel/faculty.html?id=380"><span style="line-height: 15.3333px;"><span style="line-height: 15.3333px; color: blue;">Τομέας Ηλεκτρονικής και Υπολογιστών</span></span></a></span></p>
+</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top"><span style="font-size: 10pt;"><span style="font-size: 10pt;">&nbsp;</span></span></td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p align="center" style="margin-bottom: 0.0001pt; color: #000000; text-align: center;">&nbsp;</p>
+</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt; text-align: center;" valign="top">
+<p style="margin-bottom: 0.0001pt; color: #000000; text-align: center;" align="center">&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+<td style="padding: 0.75pt;" valign="top">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-size: 12pt; font-family: times new roman,times;">&nbsp; <br /></span></p>
+<p><span style="font-size: 12pt; font-family: times new roman,times;">&nbsp;</span></p>
+<p><span style="font-size: 12pt; font-family: times new roman,times;"></span></p> 			
+				
+			</div>
+</div></div>
+								</div>
+	                        </div>
+						</div>
+                                                                    </div>
+                                <div class="rt-grid-3 rt-pull-9">
+                <div id="rt-sidebar-a">
+                                    <div class="module-outline-1">
+        	<div class="module-outline-2">
+            	<div class="rt-block">
+            	    					<div class="module-title">
+            	    	<h2 class="title">ΧΡΗΣΙΜΟΙ ΣΥΝΔΕΣΜΟΙ</h2>
+					</div>
+            	                	    <div class="module-content">
+            	    	<div class="in-module-content">
+            	    		
+<ul class="menu">
+<li id="item-733"><a href="/gr/digital-services.html" ><span>Ηλεκτρονικές Υπηρεσίες </span></a></li><li id="item-734"><a href="/gr/schedules.html" ><span>Ωρολόγιο Πρόγραμμα Μαθημάτων-Εξετάσεων </span></a></li><li id="item-761"><a href="/gr/ps2015-2016menu.html" ><span>Πρόγραμμα Σπουδών 2016-2017</span></a></li><li id="item-722"><a href="http://www.ece.upatras.gr/gr/education/undergraduate/diploma-theses.html" ><span>Διπλωματικές Εργασίες </span></a></li><li id="item-723"><a href="http://www.ece.upatras.gr/gr/education/undergraduate/practise-menu.html" ><span>Πρακτική Άσκηση </span></a></li><li id="item-724"><a href="/gr/2013-06-12-14-12-28.html" ><span>Κατατακτήριες Εξετάσεις </span></a></li><li id="item-732"><a href="/gr/orkomosia.html" ><span>Ορκωμοσία </span></a></li><li id="item-759"><a href="/gr/xrisimaentypa.html" ><span>Χρήσιμα Έντυπα</span></a></li><li id="item-735"><a href="/gr/calendar.html" ><span>Ημερολόγιο </span></a></li><li id="item-511"><a href="https://webmail.ece.upatras.gr" target="_blank" ><span>Ηλεκτρονικό Ταχυδρομείο</span></a></li><li id="item-514"><a href="https://std-webmail.ece.upatras.gr" target="_blank" ><span>Ηλεκτρονικό Ταχυδρομείο Φοιτητών</span></a></li><li id="item-726"><a href="https://haradros.ece.upatras.gr" target="_blank" ><span>Ψηφιακό Αποθετήριο (Haradros) </span></a></li><li id="item-834"><a href="http://eceforum.ece.upatras.gr" ><span>Forum Τμήματος</span></a></li></ul>            	    	</div>
+            	    </div>
+            	</div>
+            </div>
+        </div>
+        	                <div class="module-outline-1">
+        	<div class="module-outline-2">
+            	<div class="rt-block">
+            	    					<div class="module-title">
+            	    	<h2 class="title">Κοινωνική δικτύωση</h2>
+					</div>
+            	                	    <div class="module-content">
+            	    	<div class="in-module-content">
+            	    		<div class="nsb_container" align="center"><a id="l1" target="_blank" rel="nofollow" href="http://www.facebook.com/eceupatras"><img title="Facebook" border="0" src="/modules/mod_nice_social_bookmark/icons/facebook_iph_48.png" alt="Facebook" /></a><a id="l3" target="_blank" rel="nofollow" href="http://twitter.com/EceUpatras"><img title="Twitter" border="0" src="/modules/mod_nice_social_bookmark/icons/twitter_iph_48.png" alt="Twitter" /></a><a id="ll1" target="_blank" rel="nofollow" href="http://www.linkedin.com/in/upatrasece"><img title="LinkedIn" border="0" src="/modules/mod_nice_social_bookmark/icons/linkedin_iph_48.png" alt="LinkedIn" /></a></div><div style="clear:both;"></div>            	    	</div>
+            	    </div>
+            	</div>
+            </div>
+        </div>
+        	                <div class="module-outline-1">
+        	<div class="module-outline-2">
+            	<div class="rt-block">
+            	    					<div class="module-title">
+            	    	<h2 class="title">ΣΥΝΔΕΣΗ</h2>
+					</div>
+            	                	    <div class="module-content">
+            	    	<div class="in-module-content">
+            	    		<form action="/gr/personnel/faculty.html" method="post" name="form-login" id="login-form" >
+		<div class="pretext">
+	<p>μέσω LDAP Παν. Πατρών
+
+</p>
+	</div>
+		<fieldset class="userdata">
+	<p id="form-login-username">
+		<label for="modlgn-username">Όνομα Χρήστη</label><br />
+		<input id="modlgn-username" type="text" name="username" class="inputbox"  size="18" />
+	</p>
+	<p id="form-login-password">
+		<label for="modlgn-passwd">Κωδικός</label><br />
+		<input id="modlgn-passwd" type="password" name="password" class="inputbox" size="18"  />
+	</p>
+		<p id="form-login-remember">
+		<input id="modlgn-remember" type="checkbox" name="remember" class="inputbox" value="yes"/>
+		<label for="modlgn-remember">Να με θυμάσαι</label>
+	</p>
+		<div class="readon"><input type="submit" name="Submit" class="button" value="Σύνδεση" /></div>
+	<input type="hidden" name="option" value="com_users" />
+	<input type="hidden" name="task" value="user.login" />
+	<input type="hidden" name="return" value="aW5kZXgucGhwP2Zvcm1hdD1odG1sJm9wdGlvbj1jb21fY29udGVudCZ2aWV3PWFydGljbGUmaWQ9MTA1Jkl0ZW1pZD00ODk=" />
+	<input type="hidden" name="ba958adbb4ce05a0492d93a033eb1b38" value="1" />	</fieldset>
+	<ul class="login-links">
+		<li>
+			<a href="/gr/component/users/?view=reset">
+			Ξεχάσατε τον κωδικό σας;</a>
+		</li>
+		<li>
+			<a href="/gr/component/users/?view=remind">
+			Ξεχάσατε το όνομα χρήστη;</a>
+		</li>
+			</ul>
+	</form>
+            	    	</div>
+            	    </div>
+            	</div>
+            </div>
+        </div>
+        	
+                </div>
+            </div>
+
+                    <div class="clear"></div>
+                </div>
+            </div>
+																			</div>
+			</div>
+		</div>
+								
+				<div id="totop">
+			<div class="rt-grid-12 rt-alpha rt-omega">
+    		<div class="clear"></div>
+		<div class="rt-block">
+			<a href="#pageTop" id="gototop" class="no-click no-print">Αρχή</a>
+		</div>
+		
+		
+</div>
+		</div>
+				
+			</body>
+</html>
