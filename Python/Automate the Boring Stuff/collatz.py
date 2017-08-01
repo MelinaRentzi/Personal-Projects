@@ -7,8 +7,9 @@ def collatz(number):
         odd = 3*number+1
         print(odd)
         return odd
-
-n=input("Insert a number: ")
-n=collatz(int(n))
-while n!=1:
-    n=collatz(n)
+try:
+    n=input("Insert a number: ")
+    while n!=1:
+        n=collatz(int(n))
+except ValueError:
+    print("Please enter a valid integer")
