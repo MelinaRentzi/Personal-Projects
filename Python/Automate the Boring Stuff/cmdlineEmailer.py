@@ -1,3 +1,7 @@
+#This program asks the user to input the email recipient and the message they want to send them, 
+#and then logs into the user's outlook account and sends a new email to the imput email recipient, 
+#containing the user input text. Thanks for not abusing the email address.
+
 import os, requests, bs4, re
 from selenium import webdriver
 
