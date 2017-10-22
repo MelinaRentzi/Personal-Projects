@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<!-- saved from url=(0097)https://storage.googleapis.com/supplemental_media/udacityu/2730818600/bootstrap-prestructure.html -->
+
+<!-- Mockup with placeholders and modals, should be used as a framework for future portfolio projects. Created 22/10/2017 by Melina Rentzi, during the Udacity Course: Intro to HTML & CSS. -->
+
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="text/html; charset=windows-1252">
+	<meta name="viewport" content="width=device-width, initial-scale-1">
+	<title>Cute Bunny Portfolio</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
+	<script type="text/javascript" src="js/jquery-3.2.1.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+</head>
+  <body>
+    <div class="container">
+      <div class="row">
+		<div class="col-md-6">
+			<img class="title-logo" src="./images/logo.jpg" alt="Bunny Logo">
+		</div>
+		<div class="col-md-6 text-right text-uppercase">
+			<h1 class="title-super text-thin">B is for Bunnies!</h1>
+			<h4 class="text-muted">The fluffiest fluffies in the world! :3</h4>
+		</div>
+	  </div>
+	  <div class="row">
+		<div class="col-md-12">
+			<hr>
+		</div>
+	  </div>
+	  <div class="row">
+		<div class="col-md-12">
+			<img class="img-responsive" src="./images/bunny1.jpg" alt="Main puppy image!">
+		</div>
+	  </div>
+	  <div class="row">
+		<div class="col-md-12">
+			<h2 class="text-muted">For Adoption</h2>
+		</div>
+	  </div>
+	  <div class="row text-center">
+		<div class="col-md-4">
+			<img class="img-responsive" src="./images/bunny2.jpg" data-toggle="modal" data-target="#picture1" alt="Beka Family">
+			<h3 class="text-uppercase text-muted">The Beka Family</h3>
+			<p class="text-muted"></p>
+		</div>
+		<div class="col-md-4">
+			<img class="img-responsive" src="./images/bunny3.jpg" data-toggle="modal" data-target="#picture2" alt="Snowy">
+			<h3 class="text-uppercase text-muted">Ms Snowy</h3>
+			<p class="text-muted"></p>
+		</div>
+		<div class="col-md-4">
+			<img class="img-responsive" src="./images/bunny4.jpg" data-toggle="modal" data-target="#picture3" alt="Mr Leto">
+			<h3 class="text-uppercase text-muted">Mr Leto</h3>
+			<p class="text-muted"></p>
+		</div>
+	  </div>
+	</div>
+	 <!-- Modals -->
+    <div class="modal fade" id="picture1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="myModalLabel">The Beka Family</h4>
+                </div>
+                <div class="modal-body">
+                    <img class="img-responsive" src="./images/bunny2.jpg">
+                    <span class="caption">The Beka family consists of 5 members, 4 females and 1 male. They were born in February 2017 and are now 8 months old. They are calm and love to play. They are trained to pee and poop in their corner, and they eat mostly dry feed.</span>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+	
+	<div class="modal fade" id="picture2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="myModalLabel">Ms Snowy</h4>
+                </div>
+                <div class="modal-body">
+                    <img class="img-responsive" src="./images/bunny3.jpg">
+                    <span class="caption">Ms Snowy is 1 year old, and she is very friendly. She loves round things, and most of the time she enjoys munching hay. She is trained to pee and poop at her corner, and she adores fresh carrots!</span>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+	
+	<div class="modal fade" id="picture3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="myModalLabel">Mr Leto</h4>
+                </div>
+                <div class="modal-body">
+                    <img class="img-responsive" src="./images/bunny4.jpg">
+                    <span class="caption">Mr Leto is 8 months old, and he is sterile. He is very friendly but doesn't like to be patted on the head. He loves fresh carrots and hay, and he is trained to go for a walk with a lash. </span>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
